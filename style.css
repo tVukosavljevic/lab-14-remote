@@ -1,0 +1,18 @@
+	body	 {
+	background: white url(http://images4.fanpop.com/image/photos/15800000/Lady-GaGa-by-Mario-Testino-lady-gaga-15845557-750-501.jpg);
+	repeat top right;
+	font-family: sans-serif;
+			 }
+
+	p 	{
+	border: 30px #256327 solid;
+	margin-top: 3px;
+	margin-left: 4px;
+		}
+	h1
+		{	
+	color: red;
+		}
+	ul		{
+	border: 35px #FF6633 solid;
+	}
